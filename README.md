@@ -13,7 +13,7 @@ Given the HTML
 And the Javascript
 
 ```JavaScript
-$('#element1').attr();
+$('#element1').attrs();
 /*
 Outputs:
 {
