@@ -1,0 +1,31 @@
+{
+  "es3": true,
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "immed": true,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "plusplus": false,
+  "undef": true,
+  "strict": false,
+  "trailing": true,
+  "indent": 2,
+  "laxcomma": true,
+  "node": true,
+  "browser": true,
+  "globals": {
+    "$": true,
+    "jQuery": true,
+    "describe": true,
+    "it": true,
+    "beforeEach": true,
+    "afterEach": true,
+    "expect": true,
+    "jasmine": true,
+    "spyOn": true
+  }
+}
