@@ -1,0 +1,4 @@
+Version 0.1.0
+ - Fix example
+ - Added initial code for $.fn.attrs
+
