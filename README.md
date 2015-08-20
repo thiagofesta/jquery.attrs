@@ -1,5 +1,7 @@
 # jquery.attrs
 
+[ ![Codeship Status for thiagofesta/jquery.attrs](https://img.shields.io/codeship/f8b62b10-29c2-0133-667f-2a28ff6ba00c.svg)](https://codeship.com/projects/98110) [![codecov.io](https://img.shields.io/codecov/c/github/thiagofesta/jquery.attrs.svg)](http://codecov.io/github/thiagofesta/jquery.attrs?branch=master) [![bower.io](https://img.shields.io/bower/v/jquery.attrs.svg)](http://bower.io/search/?q=jquery.attrs)
+
 jQuery plugin for getting attributes from jQuery collections.
 
 ## Example
