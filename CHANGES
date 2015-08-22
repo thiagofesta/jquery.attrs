@@ -1,3 +1,14 @@
+Version 0.1.1:
+ - Generating new version
+ - Added repository info
+ - Added shield
+ - Added coveralls
+ - Added travis shield
+ - Added travis support
+ - Added npm badge
+ - Added more data to the package.json and bower.json
+ - Added shields
+
 Version 0.1.0
  - Fix example
  - Added initial code for $.fn.attrs
