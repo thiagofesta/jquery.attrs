@@ -15,6 +15,10 @@
     "Thiago Festa <thiagofesta@gmail.com> (http://thiagofesta.com)"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thiagofesta/jquery.attrs.git"
+  },
   "main": "release/jquery.attrs.js",
   "dependencies": {
     "jquery": ">= 1.0.0"
