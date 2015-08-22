@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "homepage": "https://github.com/thiagofesta/jquery.attrs",
   "description": "jQuery plugin for getting attributes from jQuery collections.",
-  "authors": [
-    "Thiago Festa <thiagofesta@gmail.com>"
+  "keywords": [
+    "jquery",
+    "attrs",
+    "attributes",
+    "attr",
+    "attribute",
+    "plugin"
   ],
+  "authors": [
+    "Thiago Festa <thiagofesta@gmail.com> (http://thiagofesta.com)"
+  ],
+  "license": "MIT",
   "devDependencies": {
     "bower": "^1.4.1",
     "grunt": "^0.4.5",
