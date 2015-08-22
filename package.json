@@ -1,6 +1,6 @@
 {
   "name": "jquery.attrs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/thiagofesta/jquery.attrs",
   "description": "jQuery plugin for getting attributes from jQuery collections.",
   "keywords": [
