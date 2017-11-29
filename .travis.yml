@@ -4,6 +4,7 @@ node_js:
 
 before_script:
   - npm install -g grunt-cli
+  - ./node_modules/bower/bin/bower install
 
 script:
   - grunt test
