@@ -1,6 +1,6 @@
 {
   "name": "jquery.attrs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/thiagofesta/jquery.attrs",
   "description": "jQuery plugin for getting attributes from jQuery collections.",
   "keywords": [
@@ -36,8 +36,5 @@
     "jshint-stylish": "^2.0.1",
     "grunt-contrib-concat": "^0.5.1",
     "grunt-contrib-uglify": "^0.9.1"
-  },
-  "scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
   }
 }

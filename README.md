@@ -33,6 +33,7 @@ Outputs:
 First you need to install the dependencies
 
     npm install
+    ./node_modules/bower/bin/bower install
 
 Now you are able to have the server up and running. Go and start the server
 
