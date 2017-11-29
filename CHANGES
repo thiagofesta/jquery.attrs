@@ -1,3 +1,8 @@
+Version 0.1.2:
+ - Removed postintall script to avoid yarn errors
+ - Added badges
+ - Added code climate
+
 Version 0.1.1:
  - Generating new version
  - Added repository info
